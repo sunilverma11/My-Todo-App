@@ -3,7 +3,7 @@
 <h3>About this app: 🙌</h3>
 Hi reader, you might have used or heard about the ToDo List App, It's an app that generally used to maintain day-to-day task or everything that we have to do.
 <h3>It's a solo project❤️</h3>
-<h3>Deployment link : <a href="https://my-todo-application-01.netlify.app/">https://my-todo-application-01.netlify.app/</a></h3>
+<h3>Deployment link : <a href=https://todos-api-react.netlify.app/>https://todos-api-react.netlify.app/</a></h3>
    <h3>Features:</h3>
       <ul>
             <li> Users can add the todo task.</li>
