@@ -6,12 +6,12 @@ Hi reader, you might have used or heard about the ToDo List App, It's an app tha
 <h3>Deployment link : <a href=https://todos-api-react.netlify.app/>https://todos-api-react.netlify.app/</a></h3>
    <h3>Features:</h3>
       <ul>
-            <li> Users can add the todo task.</li>
-            <li> Users can toggle between completed and incompleted task.</li>
-            <li>Users can see all the tasks that were added to the app.</li>
-            <li>Users can edit their todos.</li>
-            <li>Users can delete any todo from the list.</li>
-            <li>Users can clear all their todos.</li></ul>
+            <li>Add todo task</li>
+            <li>Toggle between mark done or undone</li>
+            <li>Can see all the tasks that were added to the app.</li>
+            <li>Edit task if any changes.</li>
+            <li>Delete task one by one.</li>
+            <li>Clear all task in one click Clear all.</li></ul>
 
    
    <h3>Tool kits we used to build this project: 🛠</h3>
