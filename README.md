@@ -15,8 +15,7 @@ Hi reader, you might have used or heard about the ToDo List App, It's an app tha
 
    
    <h3>Tool kits we used to build this project: 🛠</h3>
-  <ul>
-   <li>JavaScript</li>
+  <ul>  
    <li>ReactJS</li>
    <li>MongoDB</li>
    <li>NodeJS</li>
